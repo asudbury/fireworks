@@ -1,5 +1,6 @@
 {
   "name": "fireworks",
+  "homepage": "https://asudbury.github.io/fireworks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
