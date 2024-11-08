@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/fireworks/static/js/main.1660f146.js",
+    "main.js": "/fireworks/static/js/main.f6cdd303.js",
     "index.html": "/fireworks/index.html",
-    "main.1660f146.js.map": "/fireworks/static/js/main.1660f146.js.map"
+    "main.f6cdd303.js.map": "/fireworks/static/js/main.f6cdd303.js.map"
   },
   "entrypoints": [
-    "static/js/main.1660f146.js"
+    "static/js/main.f6cdd303.js"
   ]
 }
